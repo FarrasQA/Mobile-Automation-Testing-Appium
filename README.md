@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a mobile automation testing implementation for an Android application using **Appium**, **Android Emulator**, **Java**, **TestNG**, and **Gradle**.
+This project is a mobile automation testing implementation for an Android application using **Appium**, **Android Studio (Emulator)**, **Java**, **TestNG**, and **Gradle**.
 
 The primary objective is to validate critical user flows through automated testing, specifically:
 
